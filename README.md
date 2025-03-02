@@ -1,8 +1,7 @@
 Asgeir Sorteberg
 
-I am professor in atmospheric dynamics working at the Geophysical Institute, University of Bergen, Norway
-
-My website is: https://www.uib.no/en/persons/Asgeir.Sorteberg
+Professor in atmospheric dynamics working at the Geophysical Institute, University of Bergen, Norway
+Personal website: https://www.uib.no/en/persons/Asgeir.Sorteberg
 
 
 <!---
